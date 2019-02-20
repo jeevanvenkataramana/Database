@@ -1,0 +1,9 @@
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+
+
+
+"C:\Program Files\MongoDB\Server\4.0\bin\mongo.exe"
+
+
+https://www.youtube.com/watch?v=pWbMrx5rVBE

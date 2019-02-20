@@ -1,0 +1,23 @@
+ROOMMATES
+
+
+courses 
+
+CREATE TABLE courses (code NUMBER NOT NULL, subject VARCHAR2(50), professor VARCHAR(30), grade VARCHAR2(2), PRIMARY KEY(code));
+
+
+to view all tables in the whole system
+
+select table_name, owner, tablespace_name from all_tables;
+
+
+to view table of the user you logged in
+
+select table_name from user_tables;
+
+SELECT table_name FROM user_tables;
+
+SELECT owner, table_name FROM dba_tables;
+
+
+

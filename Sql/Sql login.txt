@@ -1,0 +1,55 @@
+sql
+
+jeevansql
+Jeev@123
+
+
+11g
+
+sid : orcl
+pass : jeevan123
+
+https://localhost:1158/em
+
+1. Login to command prompt
+2. type sqlplus "/ as sysdba"
+3. In sql prompt   connect HR
+4. Password jeevan123
+
+Online login
+
+1. Username and Pass for cmd as well 
+	
+	SYSTEM jeevan123
+	HR jeevan123
+
+2. Application express 
+
+	JEEVANORCL	jeevan123
+
+
+
+
+
+
+
+My sql login
+
+
+Mysql Root password
+
+Jeev@123
+
+Mysql user name 
+
+jeevan
+Pass : Jeev@123
+
+
+
+My sql Router
+
+Hostname: localhost
+Port : 3310
+Managment user : root
+Password : Jeev@123
